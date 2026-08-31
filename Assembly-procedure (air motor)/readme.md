@@ -74,7 +74,9 @@ The top plate component is installed on the main motor structure.
 - Verify correct positioning.
 
 
-### Step 8 — Final Alignment
+### Step 8 — Final Alignment:
+https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Assembly-procedure%20(air%20motor)/step%208.png
+
 All remaining components and fasteners, bolts screw are installed.
 
 - Complete the required mates.
