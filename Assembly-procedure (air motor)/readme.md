@@ -45,6 +45,7 @@ The main shaft is inserted through the motor housing.
 - Ensure free rotational movement.
 
 ### Step 5 — Flywheel / Pulley:
+https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Assembly-procedure%20(air%20motor)/step%205.png
 
 The large flywheel is mounted on the shaft.
 
