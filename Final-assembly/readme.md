@@ -30,7 +30,7 @@ https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Fina
 
 # ⬆️ Top View:
 
-![Top View](../06-Project-Images/Top-View.png)
+https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Final-assembly/top%20view.png
 
 
 # ↔️ Side View:
