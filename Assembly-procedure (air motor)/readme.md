@@ -55,7 +55,7 @@ The large flywheel is mounted on the shaft.
 - Check radial and axial alignment.
 
 ### Step 6— piston mechanism:
-
+https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Assembly-procedure%20(air%20motor)/step%206.png
 
 The remaining mechanical components such as piston, connecting rod , piston pin are installed to complete the working mechanism.
 
