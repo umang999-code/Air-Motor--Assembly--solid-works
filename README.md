@@ -34,7 +34,6 @@ The main objectives of this project are:
 | Software | Purpose |
 |----------|---------|
 | SOLIDWORKS | 3D Part Modelling and Assembly |
-| GitHub | Project Documentation and Version Control |
 
 
 # 🔩 Major Components:
