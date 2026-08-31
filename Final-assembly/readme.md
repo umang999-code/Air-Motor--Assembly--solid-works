@@ -20,7 +20,7 @@ https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Fina
 
 # 🔲 Front View:
 
-![Front View](../06-Project-Images/Front-View.png)
+https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Final-assembly/front%20view.png
 
 
 # 🔙 Back View:
