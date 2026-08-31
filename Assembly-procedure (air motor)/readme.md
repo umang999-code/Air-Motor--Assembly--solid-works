@@ -24,6 +24,7 @@ The lower support and mounting components are positioned on the base.
 - Verify proper seating on the base plate.
 
 ### Step 3 — Main Motor Housing:
+https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Assembly-procedure%20(air%20motor)/step%203.png
 
 The main motor housing is installed onto the lower support structure.
 
