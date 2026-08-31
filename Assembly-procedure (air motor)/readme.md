@@ -33,7 +33,10 @@ The main motor housing is installed onto the lower support structure.
 - Apply Coincident and Concentric mates.
 - Verify that the housing is securely positioned.
 
-### Step 4 — Shaft / Rotating Assembly
+### Step 4 — Shaft / Rotating Assembly:
+https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Assembly-procedure%20(air%20motor)/step%204.png
+
+
 The main shaft is inserted through the motor housing.
 
 - Insert the shaft into the housing.
@@ -41,7 +44,8 @@ The main shaft is inserted through the motor housing.
 - Control axial position using Coincident or Distance mates.
 - Ensure free rotational movement.
 
-### Step 5 — Flywheel / Pulley
+### Step 5 — Flywheel / Pulley:
+
 The large flywheel is mounted on the shaft.
 
 - Insert the flywheel.
