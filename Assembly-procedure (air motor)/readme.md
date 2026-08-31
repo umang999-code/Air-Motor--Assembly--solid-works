@@ -13,7 +13,9 @@ The assembly begins with the base plate, which acts as the foundation of the com
 - Fix the base plate at the assembly origin.
 - Use the base plate as the primary reference for subsequent components.
 
-### Step 2 — Lower Components
+### Step 2 — Lower Components:
+https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Assembly-procedure%20(air%20motor)/step%202.png
+
 The lower support and mounting components are positioned on the base.
 
 - Insert the required mounting components.
@@ -21,7 +23,8 @@ The lower support and mounting components are positioned on the base.
 - Apply Concentric mates to align mounting holes.
 - Verify proper seating on the base plate.
 
-### Step 3 — Main Motor Housing
+### Step 3 — Main Motor Housing:
+
 The main motor housing is installed onto the lower support structure.
 
 - Insert the motor housing.
