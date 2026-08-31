@@ -1,1 +1,57 @@
+# ⚙️ 04 – Final Assembly:
+
+## 📌 Final Air Motor Assembly:
+
+The final assembly combines all individually modelled components
+into a complete reciprocating piston-type air motor.
+
+The assembly demonstrates the relationship between the piston,
+connecting rod, crank, crankshaft and flywheel.
+
+---
+
+# 🖼️ Isometric View:
+
+The isometric view provides a complete three-dimensional
+representation of the assembled air motor.
+
+![Isometric View](../06-Project-Images/Final-Assembly-Isometric.png)
+
+
+# 🔲 Front View:
+
+![Front View](../06-Project-Images/Front-View.png)
+
+
+# 🔙 Back View:
+
+![Back View](../06-Project-Images/Back-View.png)
+
+
+# ⬆️ Top View:
+
+![Top View](../06-Project-Images/Top-View.png)
+
+
+# ↔️ Side View:
+
+![Side View](../06-Project-Images/Side-View.png)
+
+
+# 🔍 Final Assembly Inspection:
+
+The final assembly was checked for:
+
+- Component alignment
+- Proper mating
+- Shaft rotation
+- Piston movement
+- Connecting rod movement
+- Crank movement
+- Flywheel rotation
+- Interference
+- Clearance
+
+
+
 
