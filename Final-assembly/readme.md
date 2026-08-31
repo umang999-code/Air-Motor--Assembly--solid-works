@@ -25,7 +25,7 @@ https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Fina
 
 # 🔙 Back View:
 
-![Back View](../06-Project-Images/Back-View.png)
+https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Final-assembly/back%20view.png
 
 
 # ⬆️ Top View:
