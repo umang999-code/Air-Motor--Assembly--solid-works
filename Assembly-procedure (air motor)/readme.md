@@ -84,7 +84,9 @@ All remaining components and fasteners, bolts screw are installed.
 - Verify that all structural components are properly constrained.
 - Maintain rotational freedom for intended moving components.
 
-### Step 9 — Final Assembly
+### Step 9 — Final Assembly:
+https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Assembly-procedure%20(air%20motor)/step%209.png
+
 The complete Air Motor assembly is finalized.
 
 - Complete all remaining mates.
