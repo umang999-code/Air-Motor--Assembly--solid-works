@@ -15,7 +15,7 @@ connecting rod, crank, crankshaft and flywheel.
 The isometric view provides a complete three-dimensional
 representation of the assembled air motor.
 
-![Isometric View](../06-Project-Images/Final-Assembly-Isometric.png)
+https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Final-assembly/Isometric%20view.png
 
 
 # 🔲 Front View:
