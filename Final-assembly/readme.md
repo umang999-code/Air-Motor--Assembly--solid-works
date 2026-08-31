@@ -35,7 +35,7 @@ https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Fina
 
 # ↔️ Side View:
 
-![Side View](../06-Project-Images/Side-View.png)
+https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Final-assembly/side%20view.png
 
 
 # 🔍 Final Assembly Inspection:
