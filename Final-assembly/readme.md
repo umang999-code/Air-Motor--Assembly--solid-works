@@ -1,5 +1,5 @@
 # ⚙️ 04 – Final Assembly:
-https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Final-assembly/Assembly%20of%20Air%20Motor.SLDASM
+https://github.com/umang999-code/Air-Motor--Assembly--solid-works/tree/main/Final-assembly
 
 ## 📌 Final Air Motor Assembly:
 
