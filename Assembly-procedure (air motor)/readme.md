@@ -54,20 +54,25 @@ The large flywheel is mounted on the shaft.
 - Position the flywheel axially.
 - Check radial and axial alignment.
 
-### Step 6 — top plate Component
+### Step 6— piston mechanism:
+
+
+The remaining mechanical components such as piston, connecting rod , piston pin are installed to complete the working mechanism.
+
+- Insert the required components.
+- Align rotating elements with the shaft.
+- Apply appropriate Concentric, Coincident and Distance mates.
+- Check component clearances.
+
+### Step 7 — top plate Component:
+https://github.com/umang999-code/Air-Motor--Assembly--solid-works/blob/main/Assembly-procedure%20(air%20motor)/step%207.png
+
 The top plate component is installed on the main motor structure.
 
 - Align it with the housing and reference faces.
 - Apply Coincident and Distance mates.
 - Verify correct positioning.
 
-### Step 7 — Front/Side Mechanism
-The remaining mechanical components are installed to complete the working mechanism.
-
-- Insert the required components.
-- Align rotating elements with the shaft.
-- Apply appropriate Concentric, Coincident and Distance mates.
-- Check component clearances.
 
 ### Step 8 — Final Alignment
 All remaining components and fasteners, bolts screw are installed.
