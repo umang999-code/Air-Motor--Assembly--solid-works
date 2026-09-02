@@ -1,5 +1,7 @@
 ## Download Complete Air Motor CAD Files:
 
+# Please ensure that all the parts with assembly file are download in a single folder to open the assembly properly in solidworks:
+
 The complete Air Motor CAD assembly is provided in SolidWorks format for easy access, editing, and further development.
 
 📦 Included Files:
